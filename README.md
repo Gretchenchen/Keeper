@@ -5,4 +5,4 @@ Implemented the add note functionality: create a constant that keeps track of th
 
 Implemented the delete note functionality: callback from the note component to trigger a delete function; use the filter function to filter out the item that needs deletion; pass an id over to the note component, pass it back to the APP when deleting;
 
-Stylish the page using customized CSS and react component Material UI.
+Incorporated CSS and react component Material UI for stylish.
