@@ -7,4 +7,5 @@ Implemented the delete note functionality: callback from the note component to t
 
 Incorporated CSS and react component Material UI for stylish.
 
-![image](https://user-images.githubusercontent.com/95709315/198363364-076fbf5b-9606-4016-8ad1-7092610850ab.png)
+![image](https://user-images.githubusercontent.com/95709315/198363650-a30b488c-293c-4b97-bb41-e2896dc70460.png)
+
